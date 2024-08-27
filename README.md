@@ -27,5 +27,5 @@
 </h4>
 
 <h1 align='center'>
-   <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!+👍 "> 
+   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Thanks+for+stopping+by!+👍 "> 
 </h1>
