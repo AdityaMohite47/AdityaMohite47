@@ -1,5 +1,5 @@
 <h1 align='center'>
-    ## Hi there I am Aditya Mohite 👋 
+    Hi there I am Aditya Mohite 👋 
 </h1>
      I am a College Student currently persuing Computer Science Degree from India
 
