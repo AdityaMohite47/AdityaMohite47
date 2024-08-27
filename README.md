@@ -1,5 +1,5 @@
 <h1 align='center'>
-   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Aditya+Mohite+👋 "> 
+   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+👋+I+am+Aditya+Mohite"> 
 </h1>
 
 <h5 align='center'> 
