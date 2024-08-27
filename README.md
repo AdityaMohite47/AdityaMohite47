@@ -7,7 +7,7 @@
 </h4> 
 
 <div style="font-family: 'Fira Code', monospace;">
-   * 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
+* 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
      Through my college I currently hold knowledge of basic HTML , CSS , R programming and Java.
   
 * 📝 I've done some easy to intermediate level projects to enhance my knowledge about how Python works. Also Recently Learned Django framework from Python.
