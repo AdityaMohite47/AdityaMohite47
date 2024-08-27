@@ -6,7 +6,6 @@
    I am a College Student from India , currently persuing Computer Science Degree.
 </h4> 
 
-<br/>
 
 * 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
      Through my college I currently hold knowledge of basic HTML , CSS , R programming and Java.
