@@ -1,7 +1,7 @@
 <h1 align='center'>
    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Aditya+Mohite+👋 "> 
 </h1>
-  <div> 
+  <div align='center'> 
      I am a College Student currently persuing Computer Science Degree from India
 
 * 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
