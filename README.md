@@ -1,6 +1,4 @@
-
-## Hi there I am Aditya Mohite 👋
-
+##                                                                                     Hi there I am Aditya Mohite 👋
 I am a College Student currently persuing Computer Science Degree from India
 
 * 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
