@@ -1,5 +1,7 @@
-<h1 align='center'> Hi there I am Aditya Mohite 👋 </h1>
-I am a College Student currently persuing Computer Science Degree from India
+<h1 align='center'>
+     Hi there I am Aditya Mohite 👋 
+     I am a College Student currently persuing Computer Science Degree from India
+</h1>
 
 * 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
      Through my college I currently hold knowledge of basic HTML , CSS , R programming and Java.
