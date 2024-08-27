@@ -16,9 +16,8 @@ I am a College Student currently persuing Computer Science Degree from India
 
 Email : mohiteaditya689@gmail.com
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-mohite-b7639b283//)
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohite_aditya_53//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-mohite-b7639b283//)    
+     [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohite_aditya_53//)  
           
 
 - Thanks for stopping by! 👍 I'm always open to connecting and exploring new opportunities. Feel free to reach out!
