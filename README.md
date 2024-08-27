@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align='center'> 
-   I am a College Student currently persuing Computer Science Degree from India
+   I am a College Student from India , currently persuing Computer Science Degree.
 </h4> 
 
 <br/>
