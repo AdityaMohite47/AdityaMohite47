@@ -2,14 +2,12 @@
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Hi+there!👋+I+am+Aditya+Mohite"> 
 </h1>
 
-<h4 align='center'> 
+<h4 align='center' style="font-family: 'Fira Code', monospace;"> 
    I am a College Student from India , currently persuing Computer Science Degree.
 </h4> 
 
-<div style="font-family=Fira+Code;">
-   hello
-</div>
-* 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
+<div style="font-family: 'Fira Code', monospace;">
+   * 📚 I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
      Through my college I currently hold knowledge of basic HTML , CSS , R programming and Java.
   
 * 📝 I've done some easy to intermediate level projects to enhance my knowledge about how Python works. Also Recently Learned Django framework from Python.
@@ -23,11 +21,13 @@
 *  📬 Socials to Contact
      -  Email : mohiteaditya689@gmail.com
      -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b7639b283/)
+</div>
+
  
-<h4 align='center'> 
+<h4 align='center' style="font-family: 'Fira Code', monospace;"> 
    I'm always open to connecting and exploring new opportunities. Feel free to reach out!
 </h4>
 
-<h1 align='center'>
+<h1 align='center' style="font-family: 'Fira Code', monospace;">
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Thanks+for+stopping+by!+👍 "> 
 </h1>
