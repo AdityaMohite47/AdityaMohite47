@@ -13,7 +13,7 @@ I am a College Student currently persuing Computer Science Degree from India
   
 - 👯 I’m looking to collaborate on Machine Learning studies and Projects that would enable me to learn further.
   
-- 📫 How to reach me:
+- 📫 Socials for Contact :
             Email : mohiteaditya689@gmail.com
             LinkedIn :  ([Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b7639b283/))
 
