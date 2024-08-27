@@ -1,3 +1,4 @@
+
 ## Hi there I am Aditya Mohite 👋
 
 I am a College Student currently persuing Computer Science Degree from India
@@ -14,7 +15,9 @@ I am a College Student currently persuing Computer Science Degree from India
 - 👯 I’m looking to collaborate on Machine Learning studies and Projects that would enable me to learn further.
 
 Email : mohiteaditya689@gmail.com
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/aditya-mohite-b7639b283//)
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mohite_aditya_53//)  
           
 
