@@ -2,9 +2,9 @@
    <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there!+I+am+Aditya+Mohite+👋 "> 
 </h1>
 
-<div align='center'> 
+<h5 align='center'> 
    I am a College Student currently persuing Computer Science Degree from India
-</div> 
+</h5> 
 
 <br/>
 
@@ -23,9 +23,9 @@
      -  Email : mohiteaditya689@gmail.com
      -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b7639b283/)
  
-<div align='center'> 
+<h5 align='center'> 
    I'm always open to connecting and exploring new opportunities. Feel free to reach out!
-</div>
+</h5>
 
 <h1 align='center'>
    <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!+👍 "> 
