@@ -19,7 +19,7 @@
 
 *  📬 Socials to Contact
      -  Email : mohiteaditya689@gmail.com
-     -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b7639b283/)
+     -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-moihte-b77188326/)
 
 
 <h4 align='center' > 
