@@ -26,10 +26,10 @@
      -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b77188326/)
 
 
-<h1 align='center' > 
+<h4 align='center' > 
    I'm always open to connecting and exploring new opportunities. Feel free to reach out!
-</h1>
+</h4>
 
-<h1 align='center'>
+<p align='center'>
    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Thanks+for+stopping+by!+👍 "> 
-</h1>
+</p>
