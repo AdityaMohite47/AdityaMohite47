@@ -11,7 +11,7 @@
      - Through my college I currently hold knowledge of basic HTML , CSS , R programming and Java.
 
 * 🌱 Currently Learning
-     - Currently, I'm Learning about Machine Learning and using Python to explore this field.
+     - Currently, I'm Learning about Machine Learning Algorithms
      - I'm also learning Data Structures and Algorithms with C++ [ can do it with Python too ].
   
 * 🧑‍💻 Coding and Contributions
