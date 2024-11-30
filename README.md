@@ -8,7 +8,7 @@
 
 * 📚 Areas of Knowledge
      - I currently hold knowlege of C/C++ and Python which made my foundation in coding strong!!.
-     - Through my college I currently hold knowledge of basic HTML , CSS , R programming and Java.
+     - Through College (Computer Science Major ) , I currently hold knowledge of basic HTML , CSS , R programming and Java.
 
 * 🌱 Currently Learning
      - Currently, I'm Learning about Machine Learning Algorithms
