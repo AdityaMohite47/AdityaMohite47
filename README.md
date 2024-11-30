@@ -22,7 +22,7 @@
      - I’m looking to collaborate on Machine Learning studies and Projects that would enable me to learn further.
 
 *  📬 Socials to Contact
-     -  Email : mohiteaditya075@gmail.com
+     -  Email : mohiteaditya689@gmail.com
      -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b77188326/)
 
 
