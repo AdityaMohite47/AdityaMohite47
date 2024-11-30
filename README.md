@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align='center'> 
-   I am a College Student from India , currently pursuing Computer Science Degree.
+   College Student from India , currently pursuing Computer Science Degree.
 </h4> 
 
 * 📚 Areas of Knowledge
