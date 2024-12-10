@@ -16,7 +16,7 @@
   
 * 🧑‍💻 Coding and Contributions
      - I've done some easy to intermediate level projects to enhance my knowledge on Python and its libraries Example : Django-Rest framework from Python.
-     - Made contribution to [the-ecopay](https://github.com/the-ecopay) project with Django and with integrating Google's Gemini AI as an API for Image-Classification. ( Gemini API Developer Contest Submission )
+     - Made contribution to [the-ecopay](https://github.com/the-ecopay) project with Django and with integrating Google's Gemini AI as an API for Image-Classification. ( Gemini API Developer Contest Submission 2024 )
   
 * 👯 Interested Collaborations
      - Looking to collaborate on Machine Learning studies and Projects that would enable me to learn further.
