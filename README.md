@@ -8,11 +8,10 @@
 
 * 📚 Areas of Knowledge
      - Currently have knowlege of C/C++ and Python which makes my foundation in coding strong!!.
-     - Have knowledge of basic DSA.
-     - Through College ( Ongoing Computer Science Major ) , currently have Basic Knowledge of HTML-CSS , R programming and Java.
+     - Through College ( Ongoing Computer Science Major ) , currently I have Basic Knowledge of HTML-CSS , R programming and Java.
 
 * 🌱 Currently Learning
-     - Currently, I'm progressing with of Machine Learning.
+     - Currently, I'm progressing with of Machine Learning, Deep Learning and working on a Langchain project.
   
 * 🧑‍💻 Coding and Contributions
      - I've done some easy to intermediate level projects to enhance my knowledge on Python and its libraries Example : Django-Rest framework from Python.
