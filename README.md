@@ -1,5 +1,5 @@
 <h1 align='center'>
-   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Hi+there!👋+I+am+Aditya+Mohite"> 
+   Hi there!👋 I am Aditya Mohite
 </h1>
 
 <h4 align='center'> 
@@ -30,5 +30,5 @@
 </h4>
 
 <p align='center'>
-   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&color=FFFFFF&lines=Thanks+for+stopping+by!+👍 "> 
+  Thanks for stopping by! 👍
 </p>
