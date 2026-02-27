@@ -1,34 +1,71 @@
-<h1 align='center'>
-   Hi there!👋 I am Aditya Mohite
+<h1 align="center">
+  Aditya Mohite
 </h1>
 
-<h4 align='center'> 
-   College Student from India , currently pursuing Computer Science Degree.
-</h4> 
-
-* 📚 Areas of Knowledge
-     - Currently have knowlege of C/C++ and Python which makes my foundation in coding strong!!.
-     - Through College ( Ongoing Computer Science Major ) , currently I have Basic Knowledge of HTML-CSS , R programming and Java.
-
-* 🌱 Currently Learning
-     - Currently, I'm progressing with of Machine Learning, Deep Learning and working on a Langchain project.
-  
-* 🧑‍💻 Coding and Contributions
-     - I've done some easy to intermediate level projects to enhance my knowledge on Python and its libraries Example : Django-Rest framework from Python.
-     - Made contribution to [the-ecopay](https://github.com/the-ecopay) project with Django and with integrating Google's Gemini AI as an API for Image-Classification. ( Gemini API Developer Contest Submission 2024 )
-  
-* 👯 Interested Collaborations
-     - Looking to collaborate on Machine Learning studies and Projects that would enable me to learn further.
-
-*  📬 Socials to Contact
-     -  Email : mohiteaditya075@gmail.com
-     -  LinkedIn : [Aditya Mohite](https://www.linkedin.com/in/aditya-mohite-b77188326/)
-
-
-<h4 align='center' > 
-   Always open to connecting and exploring new opportunities. Feel free to reach out!
+<h4 align="center">
+  Python Backend Developer | Computer Science Student
 </h4>
 
-<p align='center'>
-  Thanks for stopping by! 👍
+<p align="center">
+  Mumbai, India
+</p>
+
+---
+
+## About Me
+
+I am a Computer Science undergraduate focused on backend development and AI-integrated systems.  
+I work primarily with Python, design REST APIs, and build structured backend architectures using Django and MongoDB.
+
+I value clean logic, practical problem-solving, and building systems that are scalable and maintainable.
+
+---
+
+## Core Assets
+
+### Languages
+- Python  
+- C  
+- C++  
+
+### Backend & Databases
+- Django  
+- REST API Development  
+- MongoDB  
+
+### Machine Learning
+- Scikit-learn  
+- Pandas  
+- NumPy  
+
+### Tools
+- Git  
+- GitHub  
+- Docker (Containerization & Service Orchestration)
+
+### Foundations
+- Object-Oriented Programming  
+- CRUD Architecture  
+- API Integration  
+- Version Control Workflows  
+
+---
+
+## Currently Focused On
+
+- Backend system design  
+- AI + backend integrations  
+- Strengthening applied machine learning fundamentals  
+
+---
+
+## Contact
+
+📧 adityamohite.dev@gmail.com  
+🔗 LinkedIn: https://linkedin.com/in/aditya--mohite   
+
+---
+
+<p align="center">
+  Open to backend and Python-focused opportunities.
 </p>
