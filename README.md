@@ -1,71 +1,63 @@
-<h1 align="center">
-  Aditya Mohite
-</h1>
-
-<h4 align="center">
-  Python Backend Developer | Computer Science Student
-</h4>
+<h1 align="center">Aditya Mohite</h1>
 
 <p align="center">
+  <strong>Python Backend Developer</strong> • Computer Science Undergraduate  
+  <br>
   Mumbai, India
+</p>
+
+<p align="center">
+  Backend Systems • REST APIs • AI Integrations • Clean Architecture
 </p>
 
 ---
 
-## About Me
+##  Who I Am
 
-I am a Computer Science undergraduate focused on backend development and AI-integrated systems.  
-I work primarily with Python, design REST APIs, and build structured backend architectures using Django and MongoDB.
+I build backend systems using Python with a focus on structured APIs, database design, and AI-powered integrations.
 
-I value clean logic, practical problem-solving, and building systems that are scalable and maintainable.
-
----
-
-## Core Assets
-
-### Languages
-- Python  
-- C  
-- C++  
-
-### Backend & Databases
-- Django  
-- REST API Development  
-- MongoDB  
-
-### Machine Learning
-- Scikit-learn  
-- Pandas  
-- NumPy  
-
-### Tools
-- Git  
-- GitHub  
-- Docker (Containerization & Service Orchestration)
-
-### Foundations
-- Object-Oriented Programming  
-- CRUD Architecture  
-- API Integration  
-- Version Control Workflows  
+My approach is simple:
+- Write clean logic  
+- Design reliable APIs  
+- Keep systems modular and scalable  
 
 ---
 
-## Currently Focused On
+##  Core Stack
 
-- Backend system design  
-- AI + backend integrations  
+**Languages**  
+`Python` • `C` • `C++`
+
+**Backend & Databases**  
+`Django` • `REST APIs` • `MongoDB`
+
+**Machine Learning**  
+`Scikit-learn` • `Pandas` • `NumPy`
+
+**Tools & Infrastructure**  
+`Git` • `GitHub` • `Docker` (Containerization & Multi-service Setup)
+
+**Engineering Fundamentals**  
+`OOP` • `CRUD Architecture` • `API Integration` • `Version Control Workflows`
+
+---
+
+##  Current Focus
+
+- Backend architecture refinement  
+- AI + backend system design  
 - Strengthening applied machine learning fundamentals  
 
 ---
 
-## Contact
+##  Connect
 
 📧 adityamohite.dev@gmail.com  
-🔗 LinkedIn: https://linkedin.com/in/aditya--mohite   
+🔗 LinkedIn: https://linkedin.com/in/aditya--mohite  
+💻 GitHub: https://github.com/AdityaMohite47  
 
 ---
 
 <p align="center">
-  Open to backend and Python-focused opportunities.
+  Focused on backend and Python-driven opportunities.
 </p>
