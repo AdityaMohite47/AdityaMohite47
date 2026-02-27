@@ -3,7 +3,7 @@
 <p align="center">
   <strong>Python Backend Developer</strong> • Computer Science Undergraduate  
   <br>
-  Mumbai, India
+  Mumbai, India 🇮🇳
 </p>
 
 <p align="center">
@@ -12,18 +12,20 @@
 
 ---
 
-##  Who I Am
+## 👨‍💻 Who I Am
 
 I build backend systems using Python with a focus on structured APIs, database design, and AI-powered integrations.
 
-My approach is simple:
-- Write clean logic  
-- Design reliable APIs  
-- Keep systems modular and scalable  
+My approach:
+- Write clean, maintainable logic  
+- Design reliable REST architectures  
+- Build modular and scalable systems  
+
+I’m open to meaningful collaborations and building practical backend-driven systems.
 
 ---
 
-##  Core Stack
+## 🛠 Core Stack
 
 **Languages**  
 `Python` • `C` • `C++`
@@ -37,27 +39,42 @@ My approach is simple:
 **Tools & Infrastructure**  
 `Git` • `GitHub` • `Docker` (Containerization & Multi-service Setup)
 
-**Engineering Fundamentals**  
-`OOP` • `CRUD Architecture` • `API Integration` • `Version Control Workflows`
+**Engineering Foundations**  
+`OOP` • `CRUD Systems` • `API Integration` • `Version Control`
 
 ---
 
-##  Current Focus
+## 🚀 Work Showcase
+
+🔹 **Campus Canteen Backend System**  
+Backend architecture with AI-powered conversational ordering.  
+→ https://github.com/AdityaMohite47/CampusCanteen-BE  
+
+🔹 **Django + Gemini API Integration**  
+REST backend integrating LLM APIs into web services.  
+→ https://github.com/the-ecopay/ecopay-be  
+
+🔹 **Machine Learning Practice Repository**  
+Supervised ML implementations and model evaluation workflows.  
+→ https://github.com/AdityaMohite47/Machine-Learning-Practice  
+
+---
+
+## 🎯 Current Focus
 
 - Backend architecture refinement  
-- AI + backend system design  
+- AI-integrated system design  
 - Strengthening applied machine learning fundamentals  
 
 ---
 
-##  Connect
+## 📬 Connect
 
 📧 adityamohite.dev@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/aditya--mohite  
-💻 GitHub: https://github.com/AdityaMohite47  
 
 ---
 
 <p align="center">
-  Focused on backend and Python-driven opportunities.
+  Focused on backend excellence. Open to collaboration.
 </p>
